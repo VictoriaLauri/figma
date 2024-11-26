@@ -13,14 +13,14 @@ This repository serves as a collection of Figma projects developed during the co
 
 ## **Screenshot**
 
-![Text Layout Screenshot](assets/screenshot.png)  
-_Practicing text hierarchy and working with columns and grids_
+![Text Layout Screenshot](Assets/screenshot.png)  
+*Practicing text hierarchy and working with columns and grids*
 ![Persona Screenshot](assets/persona-screenshot.png)
-_Creating a persona while researching user groups_
+*Creating a persona while researching user groups*
 ![Persona Screenshot](assets/journey-map-screenshot.png)
-_Creating a journey map while conducting UX research_
+*Creating a journey map while conducting UX research*
 ![Prototype Screenshot](assets/prototype-screenshot.png)
-_Working with wireframes, style guides and building prototypes_
+*Working with wireframes, style guides and building prototypes*
 
 ## **Learning Objectives**
 
